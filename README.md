@@ -46,4 +46,5 @@ The goal is to uncover patterns in patient discharge behavior, identify cost out
 ---
 
 ## 📸 Dashboard Preview 
-![image](https://github.com/user-attachments/assets/e1853289-b513-47f2-be68-8b5efb4088c6)
+![Overview Screensot](https://github.com/user-attachments/assets/a1236a59-aa08-494a-9d7f-8eda054fc328)
+
